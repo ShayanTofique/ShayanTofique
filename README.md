@@ -1,6 +1,3 @@
-<!-- Banner Image -->
-![MasterHead](https://i.pinimg.com/originals/eb/a0/45/eba045b39659fd0e3ceca8acb7d0beee.jpg)
-
 <!-- Header -->
 <h1 align="center">Hi 👋, I'm Shayan Tofique</h1>
 <h3 align="center">A passionate DevOps Enthusiast from Pakistan.</h3>
